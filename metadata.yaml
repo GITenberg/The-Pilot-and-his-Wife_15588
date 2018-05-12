@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5095
     wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
 description: 'Translation of: Lodsen og hans Hustru'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15588#The-Pilot-and-his-Wife
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
 identifiers:
